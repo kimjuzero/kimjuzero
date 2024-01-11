@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuzero&show_icons=true&theme=flag-india)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjuzero&layout=compact&theme=flag-india)
+<div align="center"></div>
