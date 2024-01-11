@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/j0__u0-white?style=flat&logo=Instagram&logoColor=E4405F"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuzero&show_icons=true&theme=flag-india)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjuzero&layout=compact&theme=flag-india)
